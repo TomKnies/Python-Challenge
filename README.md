@@ -1,2 +1,3 @@
 # Python-Challenge
-update later
+There are two datasets here.  PyBank is a list of profits / losses per month over a handful of years.  For this one I wrote a python script to determine the exact number of months on record, the net change in profits, and the biggest single gain and loss months in the data.  The results display in terminal after running it and the script also creates a csv file with the analysis in whatever folder the script is residing in.
+PyPoll contains info on an election where each voter ID, county, and candidate voted for is recorded.  This script is able to produce information on how many votes were cast overall, how many each candidate received along with the percentage, and who the winner with the most votes was.  And you get a free csv file with that analysis when you run it.
